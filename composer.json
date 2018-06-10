@@ -2,6 +2,7 @@
   "name": "paymoney/php-sdk",
   "description": "PayMoney Payment GateWay",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Tuhin Hossain",
