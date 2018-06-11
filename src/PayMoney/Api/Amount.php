@@ -19,7 +19,7 @@ class Amount extends PayMoneyModel{
         $this->totalAmount=$amount;
         return $this;
     }
-
+ 
     public function getTotal(){
         return $this->totalAmount;
     }
